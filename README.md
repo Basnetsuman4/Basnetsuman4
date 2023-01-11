@@ -6,10 +6,9 @@
 ### <div align="center">I'm Suman Basnet 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+ 
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning JavaScript and React.  
   
 
 <br/>  
