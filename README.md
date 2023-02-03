@@ -9,7 +9,7 @@
  
 
 - 🌱 I’m currently learning JavaScript and React.  
-  
+- 📫 How to reach me **arunbasnet54@gmail.com**
 
 <br/>  
 
@@ -51,15 +51,17 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Basnetsuman4" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github height="30" width="40" />
 </a>
  
 <a href="https://www.facebook.com/Arun Basnet" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img  align="center" src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook height="30" width="40" />
 </a>
 <a href="https://instagram.com/theabsolutemess" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img align="center" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram height="30" width="40" />
 </a>  
+<a href=" https://www.linkedin.com/in/suman-basnet-63b667205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-basnet-63b667205/" height="30" width="40" /></a>
+
 </div>  
   
 
