@@ -34,9 +34,9 @@
 
 #Designing Tool
 
-   
+<div align="center">   
 <img style="margin: 10px" src="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50 />
-
+</div>
 
 
 </td><td valign="top" width="33%">
