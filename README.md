@@ -53,7 +53,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Basnetsuman4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -78,4 +78,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://github.com/Basnetsuman4)" target="_blank">Github Profilinator</a></div>
+ 
