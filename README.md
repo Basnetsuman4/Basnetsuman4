@@ -29,8 +29,7 @@
 </td><td valign="top" width="33%">
 
 
-
-</td></tr></table>  
+ </table>  
 
 <br/>  
 
@@ -54,16 +53,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Basnetsuman4&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
 
 <br/>  
 
