@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Suman<br><br>🔭 I’m currently working on responsive, high-performance UIs with Next.js, React, and TailwindCSS.<br><br>🤝 I’m looking to collaborate on frontend-driven projects, design-to-code workflows, and UI/UX-heavy web apps.<br><br>🌱 I’m currently learning advanced React patterns, state management best practices, and others.<br><br>💬 Ask me about component design, TailwindCSS customization, frontend performance tuning, and pixel-perfect layouts.<br><br>🙋‍♂️ I’m looking for help with optimizing rendering in large React apps and improving accessibility without sacrificing design.<br><br>⚡ Fun fact: I spend more time tweaking paddings and margins than writing actual logic — and I’m not ashamed.
-
- <div align="center">
+<div align="center">
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arunbasnet57/) 
@@ -29,7 +28,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Basnetsuman4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Basnetsuman4&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Basnetsuman4&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
@@ -42,5 +40,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)  
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
