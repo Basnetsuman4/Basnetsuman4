@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arunbasnet57/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanbasnet44/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunbasnet54@gmail.com)  
-
+## visit count
 [![](https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0)](https://visitcount.itsvg.in)
 
 ---
