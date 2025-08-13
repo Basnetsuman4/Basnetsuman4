@@ -20,7 +20,9 @@
 </p>
 <p align="center">
   <b>Profile Visits:</b><br>
-  <img src="https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0" alt="Visit Count" />
+  <a href="https://github.com/Basnetsuman4?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Visits-Basnetsuman4-blue?style=flat-square" alt="Profile Visits">
+  </a>
 </p>
 
 <p align="center">
