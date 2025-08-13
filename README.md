@@ -21,7 +21,7 @@
 <p align="center">
   <b>Profile Visits:</b><br>
   <a href="https://github.com/Basnetsuman4?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Visits-Basnetsuman4-blue?style=flat-square" alt="Profile Visits">
+    <img src="https://img.shields.io/badge/?page_id=Basnetsuman4.Basnetsuman4" alt="Profile Visits">
   </a>
 </p>
 
