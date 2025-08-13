@@ -3,40 +3,49 @@
 # 💫 About Me
 👋 Hi, I’m **Suman**  
 
-🔭 I’m currently working on responsive, high-performance UIs with **Next.js**, **React**, and **TailwindCSS**.  
-
-🤝 I’m looking to collaborate on frontend-driven projects, design-to-code workflows, and UI/UX-heavy web apps.  
-
-🌱 I’m currently learning advanced React patterns, state management best practices, and other modern frontend techniques.  
-
-💬 Ask me about component design, TailwindCSS customization, frontend performance tuning, and pixel-perfect layouts.  
-
-🙋‍♂️ I’m looking for help with optimizing rendering in large React apps and improving accessibility without sacrificing design.  
-
-⚡ Fun fact: I spend more time tweaking paddings and margins than writing actual logic — and I’m not ashamed.
+🔭 Currently building **responsive, high-performance UIs** with **Next.js**, **React**, and **TailwindCSS**.  
+🤝 Looking to collaborate on **frontend-heavy projects** & **design-to-code workflows**.  
+🌱 Learning **advanced React patterns** and **state management best practices**.  
+💬 Ask me about **component design**, **TailwindCSS customization**, **frontend performance tuning**, and **pixel-perfect layouts**.  
+🙋‍♂️ Need help with **optimizing rendering in large React apps** and **accessibility improvements**.  
+⚡ Fun fact: I spend more time tweaking **paddings and margins** than writing logic.
 
 ---
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/arunbasnet57/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanbasnet44/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arunbasnet54@gmail.com)
+<p>
+<a href="https://www.facebook.com/arunbasnet57/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sumanbasnet44/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arunbasnet54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0)](https://visitcount.itsvg.in)
+<p>
+<b>Profile Visits:</b><br>
+<img src="https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+<td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/socket.io-black.svg?style=for-the-badge&logo=socket.io&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
+<td colspan="2"></td>
+</tr>
+</table>
 
 ---
 
