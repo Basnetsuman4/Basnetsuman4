@@ -22,7 +22,9 @@
 <p>
 <b>Profile Visits:</b><br>
 <img src="https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0" />
+
 </p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Basnetsuman4.Basnetsuman4)
 
 ---
 
