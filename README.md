@@ -18,13 +18,15 @@
 <a href="https://www.linkedin.com/in/sumanbasnet44/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arunbasnet54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
-<p>
-<b>Profile Visits:</b><br>
-<img src="https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0" />
-
+<p align="center">
+  <b>Profile Visits:</b><br>
+  <img src="https://visitcount.itsvg.in/api?id=Basnetsuman4&icon=6&color=0" alt="Visit Count" />
 </p>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Basnetsuman4.Basnetsuman4)
+
+<p align="center">
+  <b>Visitor Badge:</b><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Basnetsuman4.Basnetsuman4" alt="Visitor Badge" />
+</p>
 
 ---
 
