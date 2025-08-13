@@ -20,14 +20,9 @@
 </p>
 <p align="center">
   <b>Profile Visits:</b><br>
-  <a href="https://img.shields.io/badge/?page_id=Basnetsuman4.Basnetsuman4" target="_blank">
-  </a>
-</p>
-
-<p align="center">
-  <b>Visitor Badge:</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Basnetsuman4.Basnetsuman4" alt="Visitor Badge" />
 </p>
+
 
 ---
 
