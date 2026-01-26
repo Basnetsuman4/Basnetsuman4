@@ -5,7 +5,7 @@
 
 <br/>
 
-<!-- Social Media Icons (Glass Style) -->
+<!-- Social Media Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanbasnet44/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:arunbasnet54@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -23,42 +23,23 @@
 🔭 <b>Current Focus:</b> Building high-performance, responsive UIs with <b>Next.js</b> and <b>TailwindCSS</b>.<br>
 🤝 <b>Collaboration:</b> I love working on frontend-heavy projects and design-to-code workflows.<br>
 🌱 <b>Learning:</b> Mastering advanced React patterns and optimizing rendering for massive apps.<br>
-⚡ <b>Fun Fact:</b> I consider 1px of margin a life-or-death decision.
+⚡ <b>Fun Fact:</b> I spend more time tweaking <b>paddings and margins</b> than writing logic.
 </p>
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<!-- Tech Stack with Glass-Effect Formatting -->
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.1); border-radius: 15px; padding: 10px;">
-      <b>Frontend Ecosystem</b><br><br>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: 1px solid rgba(255,255,255,0.1); border-radius: 15px; padding: 10px;">
-      <b>Tools & Design</b><br><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<!-- High-Quality Icon Grid -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux,reactquery,sass,bootstrap&perline=9" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,postgres,socketio,vite,yarn,npm&perline=9" /><br>
+  <img src="https://skillicons.dev/icons?i=react,expo,figma,canva,github,vscode,postman,vercel,git&perline=9" />
+</p>
 
 ---
 
 ### 📊 GitHub Analysis
-<!-- Using Transparent Backgrounds to mimic Glassmorphism -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Basnetsuman4&show_icons=true&theme=transparent&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&border_color=36BCF7&border_radius=15" height="185" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basnetsuman4&layout=compact&theme=transparent&title_color=36BCF7&text_color=ffffff&border_color=36BCF7&border_radius=15" height="185" />
@@ -67,6 +48,7 @@
 ---
 
 <p align="center">
+  <b>Profile Visitors</b><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Basnetsuman4.Basnetsuman4&left_color=blue&right_color=gray" />
 </p>
 
