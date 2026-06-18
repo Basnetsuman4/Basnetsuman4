@@ -13,7 +13,7 @@
 </p>
 
 <!-- Dynamic Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Next.js+%26+React+Developer;Pixel+Perfect+UI+Design;Performance+Optimization;State+Management+Expert" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Next.js+%26+React+Developer;Pixel+Perfect+UI+Design;Performance+Optimization;Clean+Responsive+UI" />
 
 ---
 
